@@ -22,5 +22,9 @@ class ViewController: UIViewController {
         //
     }
     
+    override func viewDidLayoutSubviews() {
+        //
+    }
+    
 }
 
